@@ -1,8 +1,0 @@
-# NOTA DE COMO SUBIR ARCHIVO DESDE GIT CON COMANDOS
-echo "# ComandosUnix" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Jomiar/ComandosUnix.git
-git push -u origin main
