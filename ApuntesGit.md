@@ -1,8 +1,8 @@
 # COMANDOS PARA CAMINAR POR EL S.O.
-cd [NombreDelaCarpeta]: Sirve para ingresar a una carpeta
-cd ..: Sirve para retrocer a la carpetar anterior o contenedora de la actual.
-ls : Sirve para ver la lista de carpetas que que contiene la carpeta en la que uno se encuentra.
-cat [NombreDelArchivo]: Sirve para visulizar el texto plano en consola.
+- cd [NombreDelaCarpeta]: Sirve para ingresar a una carpeta
+- cd ..: Sirve para retrocer a la carpetar anterior o contenedora de la actual.
+- ls : Sirve para ver la lista de carpetas que que contiene la carpeta en la que uno se encuentra.
+- cat [NombreDelArchivo]: Sirve para visulizar el texto plano en consola.
 
 
 # COMANDOS DE COMO SUBIR ARCHIVO DESDE GIT Y EXCLUSIVOS DE GIT
